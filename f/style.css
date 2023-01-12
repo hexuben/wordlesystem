@@ -1,3 +1,8 @@
+@font-face {
+	font-family: '楷体';
+	font-display: swap;
+	src: url(fonts/楷体.woff) format('woff');
+}
 .hashui-titlebar {
 	/*position: fixed;*/
 	background: #EEE;
